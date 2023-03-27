@@ -13,8 +13,7 @@ Este script requer as seguintes bibliotecas:
 - time
 
 Você pode instalar todas as bibliotecas necessárias com o seguinte comando:
-
-```sh
+``sh
 pip install requests bs4 yfinance concurrent.futures time
 
 ## Uso
